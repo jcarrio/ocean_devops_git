@@ -8,3 +8,7 @@ Realizado o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
 ## Modificando no VS
 
 Isto foi alterado a partir do Visual Studio Code com GitHub Desktop
+
+## Verificando a opção de fetch
+
+Realizando commit online
